@@ -2,104 +2,158 @@
 #@/db_name	luna_pinyin
 #@/db_type	userdb
 #@/rime_version	1.7.3
-#@/tick	93
+#@/tick	191
 #@/user_id	aa2967ee-99fa-4eef-88a3-408b7d4ba582
-ba 	吧	c=1 d=0.852144 t=93
-ban tian 	半天	c=0 d=0.1 t=87
-bei 	被	c=1 d=1 t=67
-bi ji 	筆記	c=2 d=1.55802 t=93
-bu an quan 	不安全	c=1 d=0.927743 t=93
-bu gai 	不改	c=0 d=0.0970446 t=93
-bu gai le 	不改了	c=1 d=0.97531 t=93
-cai 	才	c=1 d=1 t=89
-chong zhuang 	重裝	c=0 d=0.1 t=84
-chong zhuang le 	重裝了	c=1 d=1 t=85
-dan shi 	但是	c=2 d=1.61029 t=93
-de 	的	c=5 d=3.84639 t=93
-dian 	點	c=0 d=0.0869358 t=93
-dou 	都	c=1 d=1.09277 t=73
-dou zai 	都在	c=0 d=0.1 t=70
-duo yi dian 	多一點	c=1 d=0.882497 t=93
-e 	哦	c=0 d=0.1 t=55
-en 	恩	c=1 d=1 t=52
-fo zu 	佛祖	c=0 d=0.1 t=55
-fo zu e 	佛祖哦	c=1 d=1 t=56
-fou ze 	否則	c=1 d=1 t=58
-gang cai 	剛纔	c=1 d=1 t=84
-geng 	更	c=1 d=0.937067 t=93
-gong neng 	功能	c=1 d=0.878095 t=93
-gong zuo 	工作	c=1 d=1 t=83
-guo ji ban 	國際版	c=1 d=0.822835 t=93
-guo nei 	國內	c=1 d=0.860708 t=93
-guo nei de 	國內的	c=1 d=0.895834 t=93
-guo wai 	國外	c=1 d=0.965605 t=93
-ha ha ha 	哈哈哈	c=1 d=1 t=79
-hai 	還	c=0 d=0.1 t=81
-hai mei kai shi 	還沒開始	c=1 d=1 t=82
-hao 	好	c=1 d=0.802519 t=93
-hao ba 	好吧	c=1 d=0.831104 t=93
-he 	和	c=2 d=1.81374 t=93
-hen 	很	c=0 d=0.1 t=92
-huai chu 	壞處	c=1 d=0.909373 t=93
-huan cheng 	換成	c=1 d=1 t=90
-hui bei 	會被	c=1 d=0.941765 t=93
-jian ti 	簡體	c=1 d=1 t=77
-jian ti zhong wen 	簡體中文	c=1 d=1 t=91
-jiu 	就	c=0 d=0.1 t=92
-jiu hen qi pa 	就很奇葩	c=1 d=1 t=93
-jiu shi 	就是	c=1 d=0.913931 t=93
-kai 	開	c=1 d=0.839457 t=93
-kai shi 	開始	c=1 d=0.782705 t=93
-le 	了	c=1 d=1.10658 t=93
-le ban tian 	了半天	c=1 d=1 t=88
-le ma 	了嗎	c=1 d=0.798516 t=93
-li mian 	裏面	c=1 d=1.09753 t=75
-man man 	慢慢	c=1 d=1 t=63
-mei 	沒	c=0 d=0.1 t=81
-mei sha 	沒啥	c=1 d=1 t=69
-mian de 	免得	c=1 d=1 t=66
-ming zi 	名字	c=1 d=1 t=92
-na ge 	哪個	c=0 d=0.0822835 t=93
-ni hai fen 	你還分	c=1 d=0.83527 t=93
-ni xian zai 	你現在	c=1 d=0.778801 t=93
-ni yong 	你用	c=0 d=0.0822835 t=93
-ni yong na ge 	你用哪個	c=1 d=0.826959 t=93
-nian fei 	年費	c=1 d=0.869358 t=93
-pa 	怕	c=1 d=0.985112 t=93
-pei zhi 	配置	c=1 d=1 t=76
-pian yi 	便宜	c=0 d=0.0869358 t=93
-pian yi dian 	便宜點	c=1 d=0.873716 t=93
-qi pa 	奇葩	c=0 d=0.1 t=92
-ruan jian 	軟件	c=2 d=1.50045 t=93
-sha 	啥	c=1 d=1 t=72
-shen cha 	審查	c=2 d=1.93654 t=93
-shi 	是	c=1 d=0.923116 t=93
-shi a 	是啊	c=0 d=0.1 t=70
-shi a dou zai li mian 	是啊都在裏面	c=1 d=1 t=71
-shu ju 	數據	c=0 d=0.1 t=54
-shu ru fa 	輸入法	c=1 d=1 t=86
-su du 	速度	c=1 d=1 t=54
-tai duo 	太多	c=0 d=0.1 t=54
-tong yi 	統一	c=1 d=0.847894 t=93
-wei yi 	唯一	c=1 d=0.900325 t=93
-wo 	我	c=1 d=1.17651 t=81
-wo cuo le 	我錯了	c=1 d=1 t=80
-wo dou ying gai 	我都應該	c=1 d=1 t=59
-wo shi 	我是	c=1 d=0.951229 t=93
-wo shu ju tai duo 	我數據太多	c=1 d=1 t=55
-xie lou 	泄漏	c=2 d=1.69308 t=93
-xin xi 	信息	c=1 d=0.918512 t=93
-yan jiu 	研究	c=1 d=1 t=87
-yi zhi 	一直	c=1 d=0.955997 t=93
-yin xiang 	印象	c=0 d=0.0802519 t=93
-yin xiang bi ji 	印象筆記	c=1 d=0.806541 t=93
-ying gai 	應該	c=0 d=0.1 t=58
-yong 	用	c=5 d=4.33886 t=93
-yong guo nei de 	用國內的	c=1 d=1 t=53
-yong zi ji 	用自己	c=1 d=1 t=64
-you 	有	c=1 d=0.810584 t=93
-zai 	在	c=1 d=1 t=74
-zhong wen 	中文	c=1 d=1 t=78
-zhong wen ban 	中文版	c=1 d=0.814647 t=93
-zhu yao shi 	主要是	c=1 d=0.980199 t=93
-zi ji 	自己	c=1 d=1.08511 t=63
+a 	啊	c=3 d=2.30398 t=191
+a a a 	啊啊啊	c=1 d=1 t=177
+a han 	阿含	c=1 d=1 t=179
+ba 	吧	c=1 d=0.852144 t=191
+ban jiao 	半角	c=1 d=1.09802 t=173
+ban tian 	半天	c=1 d=0.87762 t=191
+bei 	被	c=1 d=0.878095 t=191
+bi ji 	筆記	c=2 d=1.55802 t=191
+bi jiao hao 	比較好	c=1 d=1 t=191
+bu an quan 	不安全	c=1 d=0.927743 t=191
+bu dui 	不對	c=1 d=0.718924 t=191
+bu gai 	不改	c=0 d=0.0970446 t=191
+bu gai le 	不改了	c=1 d=0.97531 t=191
+bu hui 	不會	c=1 d=0.71177 t=191
+cai 	才	c=1 d=0.980199 t=191
+cang jing kong 	蒼井空	c=1 d=0.878095 t=191
+chong qi 	重啓	c=0 d=0.0767206 t=191
+chong qi jiu hao 	重啓就好	c=1 d=0.771052 t=191
+chong zhuang 	重裝	c=0 d=0.0955997 t=191
+chong zhuang le 	重裝了	c=1 d=0.960789 t=191
+ci hui 	詞彙	c=1 d=0.909373 t=191
+ci ku 	詞庫	c=1 d=0.847894 t=191
+ci zu 	詞組	c=1 d=0.737123 t=191
+dan ci 	單次	c=1 d=0.860708 t=191
+dan shi 	但是	c=3 d=2.05877 t=191
+de 	的	c=9 d=5.78974 t=191
+dian 	點	c=0 d=0.0869358 t=191
+dou 	都	c=1 d=0.988779 t=191
+dou zai 	都在	c=0 d=0.0891366 t=191
+duo yi dian 	多一點	c=1 d=0.882497 t=191
+e 	哦	c=0 d=0.0826959 t=191
+en 	恩	c=1 d=0.814647 t=191
+fo zu 	佛祖	c=0 d=0.0826959 t=191
+fo zu e 	佛祖哦	c=1 d=0.831104 t=191
+fou ze 	否則	c=1 d=0.839457 t=191
+gang cai 	剛纔	c=1 d=0.955997 t=191
+ge 	個	c=1 d=0.790571 t=191
+geng 	更	c=3 d=2.80626 t=191
+gong neng 	功能	c=1 d=0.878095 t=191
+gong zuo 	工作	c=1 d=0.951229 t=191
+guo ji ban 	國際版	c=1 d=0.822835 t=191
+guo nei 	國內	c=1 d=0.860708 t=191
+guo nei de 	國內的	c=1 d=0.895834 t=191
+guo wai 	國外	c=1 d=0.965605 t=191
+ha ha ha 	哈哈哈	c=1 d=0.932394 t=191
+hai 	還	c=0 d=0.0941765 t=191
+hai bu cu 	還不錯	c=1 d=0.960789 t=191
+hai mei kai shi 	還沒開始	c=1 d=0.946485 t=191
+hao 	好	c=1 d=0.802519 t=191
+hao ba 	好吧	c=3 d=2.30587 t=191
+hao de 	好的	c=1 d=0.97531 t=191
+he 	和	c=3 d=2.09647 t=191
+hen 	很	c=0 d=0.0995012 t=191
+hen duo 	很多	c=1 d=0.904837 t=191
+hen qi guai 	很奇怪	c=1 d=0.697676 t=191
+huai chu 	壞處	c=1 d=0.909373 t=191
+huan cheng 	換成	c=1 d=0.985112 t=191
+hui bei 	會被	c=1 d=0.941765 t=191
+jian ti 	簡體	c=1 d=0.923116 t=191
+jian ti zhong wen 	簡體中文	c=1 d=0.99005 t=191
+jing chang 	經常	c=1 d=0.763537 t=191
+jiu 	就	c=0 d=0.0995012 t=191
+jiu hao 	就好	c=0 d=0.0767206 t=191
+jiu hen qi pa 	就很奇葩	c=1 d=1 t=191
+jiu shi 	就是	c=1 d=0.913931 t=191
+jue de 	覺得	c=0 d=0.0951229 t=191
+ka 	卡	c=1 d=0.755784 t=191
+kai 	開	c=1 d=0.839457 t=191
+kai shi 	開始	c=1 d=0.782705 t=191
+kai yuan 	開源	c=1 d=0.794534 t=191
+ke kuo zhan 	可擴展	c=0 d=0.1 t=184
+ke kuo zhan jing chang 	可擴展經常	c=1 d=1 t=185
+ke yi 	可依	c=1 d=0.932394 t=191
+ku 	庫	c=1 d=0.913931 t=191
+kuai jie jian 	快捷鍵	c=2 d=1.99005 t=171
+le 	了	c=5 d=4.02505 t=191
+le ban tian 	了半天	c=1 d=0.97531 t=191
+le ma 	了嗎	c=1 d=0.798516 t=191
+li mian 	裏面	c=1 d=1.00307 t=191
+man man 	慢慢	c=1 d=0.860708 t=191
+mei 	沒	c=0 d=0.0941765 t=191
+mei ban fa 	沒辦法	c=2 d=1.76942 t=191
+mei sha 	沒啥	c=1 d=0.88692 t=191
+mian de 	免得	c=1 d=0.873716 t=191
+ming zi 	名字	c=1 d=0.995012 t=191
+na ge 	哪個	c=0 d=0.0822835 t=191
+ni hai fen 	你還分	c=1 d=0.83527 t=191
+ni xian zai 	你現在	c=1 d=0.778801 t=191
+ni yong 	你用	c=0 d=0.0822835 t=191
+ni yong na ge 	你用哪個	c=1 d=0.826959 t=191
+nian fei 	年費	c=1 d=0.869358 t=191
+pa 	怕	c=1 d=0.985112 t=191
+pei 	配	c=1 d=0.918512 t=191
+pei zhi 	配置	c=3 d=2.29264 t=191
+pian yi 	便宜	c=0 d=0.0869358 t=191
+pian yi dian 	便宜點	c=1 d=0.873716 t=191
+qi guai 	奇怪	c=1 d=0.763379 t=191
+qi pa 	奇葩	c=1 d=0.791254 t=191
+quan jiao 	全角	c=1 d=1.09851 t=172
+quan jiao ban jiao 	全角半角	c=1 d=1 t=170
+ruan jian 	軟件	c=2 d=1.50045 t=191
+sha 	啥	c=1 d=0.900325 t=191
+shen cha 	審查	c=2 d=1.93654 t=191
+shi 	是	c=1 d=0.923116 t=191
+shi a 	是啊	c=0 d=0.0891366 t=191
+shi a dou zai li mian 	是啊都在裏面	c=1 d=0.895834 t=191
+shi shi shi 	磊	c=1 d=0.941765 t=191
+shu ju 	數據	c=0 d=0.0822835 t=191
+shu ru 	輸入	c=1 d=0.927743 t=191
+shu ru fa 	輸入法	c=9 d=6.32048 t=191
+su du 	速度	c=1 d=0.822835 t=191
+tai duo 	太多	c=0 d=0.0822835 t=191
+tong yi 	統一	c=1 d=0.847894 t=191
+wei yi 	唯一	c=1 d=0.900325 t=191
+wen 	文	c=1 d=1 t=174
+wo 	我	c=2 d=1.63537 t=191
+wo bu zhi dao 	我不知道	c=1 d=0.970446 t=191
+wo cuo le 	我錯了	c=1 d=0.937067 t=191
+wo dou 	我都	c=1 d=0.704688 t=191
+wo dou ying gai 	我都應該	c=1 d=0.843665 t=191
+wo jue de 	我覺得	c=2 d=1.9362 t=191
+wo jue ding 	我決定	c=1 d=0.951229 t=191
+wo shi 	我是	c=1 d=0.951229 t=191
+wo shu ju tai duo 	我數據太多	c=1 d=0.826959 t=191
+xia zai 	下載	c=2 d=1.52353 t=191
+xian zai 	現在	c=1 d=0.995012 t=191
+xian zhe 	閒着	c=1 d=0.99005 t=191
+xie lou 	泄漏	c=2 d=1.69308 t=191
+xin xi 	信息	c=1 d=0.918512 t=191
+yan jiu 	研究	c=1 d=0.970446 t=191
+yi zhi 	一直	c=1 d=0.955997 t=191
+yin xiang 	印象	c=0 d=0.0802519 t=191
+yin xiang bi ji 	印象筆記	c=1 d=0.806541 t=191
+ying gai 	應該	c=0 d=0.0839457 t=191
+yong 	用	c=5 d=4.33886 t=191
+yong guo nei de 	用國內的	c=1 d=0.818731 t=191
+yong zi ji 	用自己	c=1 d=0.865022 t=191
+you 	有	c=1 d=0.810584 t=191
+you qu 	又去	c=1 d=0.778801 t=191
+zai 	在	c=1 d=0.909373 t=191
+zan shi 	暫時	c=1 d=0.852144 t=191
+zeng jia 	增加	c=1 d=0.895834 t=191
+zeng jiang 	贈獎	c=1 d=0.891366 t=191
+zhe gu 	這股	c=2 d=1.84153 t=191
+zhe teng 	折騰	c=1 d=0.802519 t=191
+zheng 	掙	c=1 d=0.70822 t=191
+zhong 	中	c=3 d=2.93605 t=182
+zhong wen 	中文	c=13 d=11.3217 t=191
+zhong wen ban 	中文版	c=1 d=0.814647 t=191
+zhu yao shi 	主要是	c=1 d=0.980199 t=191
+zi ji 	自己	c=1 d=0.933963 t=191
+zi yong 	自用	c=1 d=0.822835 t=191
+zui duo 	最多	c=1 d=0.873716 t=191
