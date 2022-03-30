@@ -1,0 +1,13 @@
+patch:
+  # 修改程序外观
+  style:
+    color_scheme: mojave_dark    # 选择配色主题（squirrel.yaml 源文件中预定义了多种主题）
+    font_face: Hei                  # 候选词字体（可以使用 macOS 自带的“字体册.app”检索）
+    font_point: 18                  # 候选词大小
+    label_font_face: Bradley Hand   # 候选词编号字体
+    label_font_size: 18             # 候选词编号大小
+    horizontal: true                # 候选词是否横排
+    inline_preedit: false           # true 将待转字母嵌入显示在目标程序窗口，false 将待转字母显示在输入法窗口
+  app_options:
+    com.microsoft.VSCode:
+      ascii_mode: false
